@@ -39,8 +39,8 @@ int WriteFile(char *file,char *str);
 
 void banner() 
 {
- printf("\nFollow patern: ./heartbeat <SerialPort> <times 2 get>\n"
-  "Just Another geek thing to get HeartBeat and plot!!!\n"
+ printf("\nFollow pattern: ./heartbeat <SerialPort> <times 2 get>\n"
+  "Just Another geek object to get HeartBeat and plot!!!\n"
   "Coded By Cooler_\n"
   "coolerlab.wordpress.com\n"
   "\n");
